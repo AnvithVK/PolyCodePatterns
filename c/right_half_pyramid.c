@@ -1,4 +1,3 @@
-// C program to print right half pyramid pattern of star 
 #include <stdio.h> 
 
 int main() 
